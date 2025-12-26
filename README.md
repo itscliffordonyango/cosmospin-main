@@ -22,7 +22,7 @@ Note, if you can't find the task, either:
 
 - Rebuild the environment (using command palette: `IDX: Rebuild Environment`), or you can run this command
 
-  `npm run android -- --tunnel`
+   `npm run android -- --tunnel`
 
   This command  will manually run android and see the output in your terminal. The device should pick up this new command and switch to start displaying the output from it.
 
